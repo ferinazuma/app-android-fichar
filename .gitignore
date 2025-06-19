@@ -1,0 +1,8 @@
+# Gradle files
+.gradle/
+build/
+# Local configuration
+local.properties
+# Generated files
+*.iml
+.idea/
